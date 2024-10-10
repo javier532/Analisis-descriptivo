@@ -47,17 +47,24 @@ o matplotlib y seaborn: Para la visualización de datos.
 o scipy y statsmodels: Para cálculos estadísticos.
 
 ## Descripción del análisis
+
 Este proyecto aborda las siguientes etapas:
 
-1. Fundamentos: Introducción a conceptos básicos del curso.
-2. Carga de datos: Importación y limpieza de los datos.
-3. Exploración inicial: Análisis exploratorio de variables numéricas y categóricas.
-4. Visualización de datos: Gráficos y tablas para resumir las características
+**1. Fundamentos:** Introducción a conceptos básicos del curso.
+
+**2.  Carga de datos:** Importación y limpieza de los datos.
+
+**3.  Exploración inicial:** Análisis exploratorio de variables numéricas y categóricas.
+
+**4.  Visualización de datos:** Gráficos y tablas para resumir las características
 principales.
-5. Estadísticas descriptivas: Cálculo de medidas como la media, mediana,
+
+**5.  Estadísticas descriptivas:** Cálculo de medidas como la media, mediana,
 desviación estándar, percentiles, etc.
-6. Conclusiones: Observaciones claves derivadas del análisis.
-### Estructura de datos
+
+**6.  Conclusiones:** Observaciones claves derivadas del análisis.
+### Estructura de datos.
+
 Los datos utilizados en este análisis están relacionados con *describe aquí
 brevemente los datos que usaste*, y provienen de *fuente del dataset*
 
