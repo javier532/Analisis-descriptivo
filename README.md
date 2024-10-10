@@ -1,4 +1,5 @@
-Análisis Descriptivo en Python
+
+# Análisis Descriptivo en Python
 
 Este repositorio contiene un análisis descriptivo realizado con Python enmarcado en el
 proyecto de aula del curso Introducción a la adquisición y tratamiento de datos del
@@ -6,7 +7,7 @@ programa de Ingeniería Informática de Aunar Villavicencio.
 El objetivo es explorar y visualizar datos utilizando técnicas estadísticas básicas para
 obtener información relevante.
 
-Tabla de contenido
+## Tabla de contenido
 
 1. Fundamentos para el Análisis de Datos
    
@@ -32,10 +33,10 @@ f. Gráficos de dispersión
 6. Aplicación.
 
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 
- Python 3.x
- Bibliotecas:
+### Python 3.x
+### Bibliotecas:
 
 o pandas: Para la manipulación y análisis de datos.
 
@@ -45,7 +46,7 @@ o matplotlib y seaborn: Para la visualización de datos.
 
 o scipy y statsmodels: Para cálculos estadísticos.
 
-Descripción del análisis
+## Descripción del análisis
 Este proyecto aborda las siguientes etapas:
 
 1. Fundamentos: Introducción a conceptos básicos del curso.
@@ -56,13 +57,13 @@ principales.
 5. Estadísticas descriptivas: Cálculo de medidas como la media, mediana,
 desviación estándar, percentiles, etc.
 6. Conclusiones: Observaciones claves derivadas del análisis.
-Estructura de datos
+### Estructura de datos
 Los datos utilizados en este análisis están relacionados con *describe aquí
 brevemente los datos que usaste*, y provienen de *fuente del dataset*
 
 
 
-Entregables:
+## Entregables:
 Notebook de Jupyter: Cada sección contendrá un cuaderno de Jupyter con todo el
 código utilizado en el análisis descriptivo, junto con explicaciones y comentarios
 adecuados. Este proyecto proporcionará una comprensión básica de las
