@@ -36,13 +36,16 @@ Tecnologías utilizadas
 
  Python 3.x
  Bibliotecas:
+
 o pandas: Para la manipulación y análisis de datos.
+
 o numpy: Para cálculos numéricos.
+
 o matplotlib y seaborn: Para la visualización de datos.
+
 o scipy y statsmodels: Para cálculos estadísticos.
+
 Descripción del análisis
-
-
 Este proyecto aborda las siguientes etapas:
 
 1. Fundamentos: Introducción a conceptos básicos del curso.
